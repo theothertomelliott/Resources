@@ -8,3 +8,4 @@ A dumping ground for useful articles, tools and services I've seen and used, or 
 * [ElephantSQL](https://www.elephantsql.com/) - PostgreSQL as a service
 * [goreleaser](https://github.com/goreleaser/goreleaser) - Tool for building binaries and homebrew formulas for Go projects
 * [Pachyderm](http://pachyderm.readthedocs.io/) - Distributed data analytics pipelines
+* [go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values
